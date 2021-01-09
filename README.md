@@ -31,9 +31,9 @@ then add bootstrap to public/index.html for some styling to demo app
 
 ## 4. Access State inside Components
 
-## 4. Access State inside Components
+<br>
 
-# Summary
+# Summary from Demo App
 
 Here's the summary of using Context API and Hooks for state management
 - Create context using createContext method
@@ -42,3 +42,28 @@ Here's the summary of using Context API and Hooks for state management
 - Wrap the component where value has to be accessed inside the Provider component
 - Access values using useContext hook
 
+<br>
+
+# You can use this repo and run a demo
+
+**Installation**
+
+Clone repo locally
+```
+git clone https://github.com/vemuruadi/context-demo-api.git
+cd context-demo-api
+```
+
+**Install dependencies**
+```
+Yarn
+or 
+npm i
+```
+
+**Run the development demo**
+```
+yarn start
+or
+npm start
+```
