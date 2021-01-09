@@ -9,3 +9,36 @@ This is simple library application which has shelf with books. We use context AP
 
 ![Demo Screenshot](./public/context-api-demo.png)
 
+## 1. Create React App
+
+```
+npx create-react-app context-api-demo
+```
+
+then add bootstrap to public/index.html for some styling to demo app
+
+```
+<link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+      crossorigin="anonymous" 
+/>
+```
+
+## 2. UI Components
+
+## 3. Context API and State management
+
+## 4. Access State inside Components
+
+## 4. Access State inside Components
+
+# Summary
+
+Here's the summary of using Context API and Hooks for state management
+- Create context using createContext method
+- Create the Provider component with the values to pass as state
+- Create the Reducers to manipulate the state using useReducer hook
+- Wrap the component where value has to be accessed inside the Provider component
+- Access values using useContext hook
+
