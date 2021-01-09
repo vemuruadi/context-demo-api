@@ -1,6 +1,6 @@
 # React State Management with Context API and Hooks
 
-## Introduction
+### Introduction
 This sample showcases how to create, use and manage React state using Context API and Hooks.
 
 **About the sample**
@@ -25,15 +25,15 @@ then add bootstrap to public/index.html for some styling to demo app
 />
 ```
 
-## 2. UI Components
+### 2. UI Components
 
-## 3. Context API and State management
+### 3. Context API and State management
 
-## 4. Access State inside Components
+### 4. Access State inside Components
 
 <br>
 
-# Summary from Demo App
+## Summary from Demo App
 
 Here's the summary of using Context API and Hooks for state management
 - Create context using createContext method
@@ -44,7 +44,7 @@ Here's the summary of using Context API and Hooks for state management
 
 <br>
 
-# You can use this repo and run a demo
+## You can use this repo and run a demo
 
 **Installation**
 
